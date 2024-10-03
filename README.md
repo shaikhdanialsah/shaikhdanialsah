@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning React js and Flask<br />
 - 📫 You can contact me at:  [shaikhdanial02@gmail.com](mailto:shaikhdanial02@gmail.com)<br />
 - 😄 Pronouns: he/him<br />
-- ⚡ Fun fact: I aim to be a web developer<br />
+- ⚡ Fun fact: I aim to be a web developer<br /><br />
 
 <summary>
   ✨ Tech stack currently using:
@@ -17,7 +17,7 @@
 <code><a href="https://www.w3schools.com/css/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a></code>
 <code><a href="https://getbootstrap.com/" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png?20210507000024"></a></code>
 <code><a href="https://www.php.net/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></a></code>
-<code><a href="https://git-scm.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a></code>
+<code><a href="https://git-scm.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a></code><br />
 
 
 
@@ -26,13 +26,12 @@
  📔 GitHub Stats:
 </summary>
 <br>
-<p align="center">
+<p >
   <a href="https://github.com/shaikhdanialsah">
-    <img align="center"  height="175px" src="https://github-readme-stats.vercel.app/api?username=shaikhdanialsah&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+    <img   height="175px" src="https://github-readme-stats.vercel.app/api?username=shaikhdanialsah&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
   </a>
   <a href="https://github.com/shaikhdanialsah">
-    <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikhdanialsah&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+    <img  height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikhdanialsah&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
   </a>
 </p>
-  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaikhdanialsah&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" alt="shaikhdanialsah" /></p>
 
