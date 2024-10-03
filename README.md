@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**shaikhdanialsah/shaikhdanialsah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
 <h3>Little facts about me: </h3><br />
 - 🔭 I’m currently working on my final year project<br />
 - 🌱 I’m currently learning React js and Flask<br />
