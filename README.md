@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h3>Little facts about me: </h3>
+### Little facts about me:
 - 🔭 I’m currently working on my final year project<br />
 - 🌱 I’m currently learning React js and Flask<br />
 - 📫 You can reach me at: **shaikhdanial02@gmail.com** <br />
