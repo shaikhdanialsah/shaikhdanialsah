@@ -3,7 +3,7 @@
 <h3>Little facts about me: </h3>
 - 🔭 I’m currently working on my final year project<br />
 - 🌱 I’m currently learning React js and Flask<br />
-- 📫 You can contact me at:  **shaikhdanial02@gmail.com**  <br />
+- 📫 You can reach me at: **shaikhdanial02@gmail.com**
 - 😄 Pronouns: he/him<br />
 - ⚡ Fun fact: I aim to be a web developer<br /><br />
 
