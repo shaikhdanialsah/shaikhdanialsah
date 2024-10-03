@@ -5,12 +5,12 @@
 
 Here are some ideas to get you started:
 -->
-<h3>Little facts about me: </h3>
-- 🔭 I’m currently working on my final year project
-- 🌱 I’m currently learning React js and Flask
-- 📫 How to reach me: ...
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I aim to be a web developer
+<h3>Little facts about me: </h3><br />
+- 🔭 I’m currently working on my final year project<br />
+- 🌱 I’m currently learning React js and Flask<br />
+- 📫 How to reach me: ...<br />
+- 😄 Pronouns: he/him<br />
+- ⚡ Fun fact: I aim to be a web developer<br />
 
 <details open="">
 <summary>
