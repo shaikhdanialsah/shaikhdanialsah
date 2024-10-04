@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning React js and Flask<br />
 - 📫 You can reach me at: **shaikhdanial02@gmail.com** <br />
 - 😄 Pronouns: he/him<br />
-- ⚡ Fun fact: I aim to be a web developer<br /><br />
+- ⚡ Fun fact: I aspire to be a web developer<br /><br />
 
 ### ✨ Current Tech Stack:
    <br />
