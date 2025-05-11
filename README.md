@@ -4,7 +4,7 @@
 - 🌱 Experienced in React js, Flask and Java Spring Boot<br />
 - 📫 You can reach me at: **shaikhdanial02@gmail.com** <br />
 - 😄 Pronouns: he/him<br />
-- ⚡ Fun fact: I aspire to be a full stack developer<br /><br />
+- ⚡ Fun fact: Currently a software engineer intern<br /><br />
 
 ### ✨ Current Tech Stack: 
    <br />
