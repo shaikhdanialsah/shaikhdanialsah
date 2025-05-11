@@ -1,11 +1,10 @@
 ## Hi there 👋
 
 ### Little facts about me:
-- 🔭 I’m currently working on my final year project<br />
-- 🌱 I’m currently learning React js and Flask<br />
+- 🌱 Experienced in React js, Flask and Java Spring Boot<br />
 - 📫 You can reach me at: **shaikhdanial02@gmail.com** <br />
 - 😄 Pronouns: he/him<br />
-- ⚡ Fun fact: I aspire to be a web developer<br /><br />
+- ⚡ Fun fact: I aspire to be a full stack developer<br /><br />
 
 ### ✨ Current Tech Stack: 
    <br />
