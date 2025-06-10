@@ -3,7 +3,6 @@
 ### Little facts about me:
 - 🌱 Experienced in React js, Flask and Java Spring Boot<br />
 - 📫 You can reach me at: **shaikhdanial02@gmail.com** <br />
-- 😄 Pronouns: he/him<br />
 - ⚡ Fun fact: Currently a software engineer intern<br /><br />
 
 ### ✨ Current Tech Stack: 
