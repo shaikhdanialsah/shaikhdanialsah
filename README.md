@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 ### Little facts about me:
-- 🌱 Experienced in React js, Flask and Java Spring Boot<br />
+- 🌱 Experienced in React/RN, Flask and Java Spring Boot<br />
 - 📫 You can reach me at: **shaikhdanial02@gmail.com** <br />
-- ⚡ Fun fact: Currently a software engineer intern<br /><br />
+- ⚡ Fun fact: Currently a software engineer<br /><br />
 
 ### ✨ Current Tech Stack: 
    <br />
